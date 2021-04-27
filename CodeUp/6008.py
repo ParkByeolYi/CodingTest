@@ -1,0 +1,1 @@
+print("Hello\\nWorld") #Hello\nWorld를 출력하는데 '\n'이 줄 바꿈(new line)으로 사용되지 않도록 '\'를 '\\'로 사용했다. 따라서 6007번의 진짜이유는 해결!
