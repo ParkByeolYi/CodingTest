@@ -1,3 +1,6 @@
 n = int(input())
 m = int(input())
-print(n)
+m = list(int(m))
+
+for i in range(n) :
+  print(n)
